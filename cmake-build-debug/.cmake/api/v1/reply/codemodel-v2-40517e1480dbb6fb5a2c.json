@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "CH0729TRIANGLE",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "CH0729TRIANGLE::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CH0729TRIANGLE-Debug-c4048e0b2a714bcc22b2.json",
+					"name" : "CH0729TRIANGLE",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "unittest::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-unittest-Debug-6c9af65ab2abb5fb9895.json",
+					"name" : "unittest",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/hloi/CLionProjects/CSC109/SP24/CH0729TRIANGLE/cmake-build-debug",
+		"source" : "C:/Users/hloi/CLionProjects/CSC109/SP24/CH0729TRIANGLE"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
